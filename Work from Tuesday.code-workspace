@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../var/www/mtbc"
+		},
+		{
+			"path": "../../../var/www"
+		},
+		{
+			"path": "."
+		}
+	]
+}
